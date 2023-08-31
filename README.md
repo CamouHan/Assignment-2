@@ -2,9 +2,9 @@
 
 This is my submission for the Coursera Exploratory Data Analysis Week 4 Assignment.
 
-## Required data
+## Required data for the assignment 
 
-The code requires 2 files to run, `summarySCC_PM25.rds` and `Source_Classification_Code.rds`, which can be downloaded here: 
+In the assignment there are 2 files to run, `summarySCC_PM25.rds` and `Source_Classification_Code.rds`, which can be downloaded here: 
 [Week 4 Assignment Data](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
 ## Description
