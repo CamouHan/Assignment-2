@@ -1,6 +1,6 @@
 # Assignment-2
 
-This is my submission for the Coursera Exploratory Data Analysis Week 4 Assignment.
+Coursera Exploratory Data Analysis Week 4 Assignment submission.
 
 ## Required data for the assignment 
 
